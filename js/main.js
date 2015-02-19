@@ -1,3 +1,15 @@
+v2
+AUI().ready(
+
+	/*
+	This function gets loaded when all the HTML, not including the portlets, is
+	loaded.
+	*/
+
+	function() {
+	}
+);
+
 AUI().ready(
 
 	/*
